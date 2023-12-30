@@ -1,6 +1,6 @@
-#Aplikasi Manajemen Barang#
+# Aplikasi Manajemen Barang
 
-#Penjelasan#
+# Penjelasan
 - Aplikasi ini berfungsi untuk membantu user dalam manajemen barang toko serta mendaftarkan barang kedalam tabel yang dapat di edit serta di hapus jika tidak diperlukan lagi
 
 #UI
